@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Student/CLionProjects/COMP5004 Coursework/COMP5004CW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Student/CLionProjects/COMP5004 Coursework/COMP5004CW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Student/CLionProjects/COMP5004 Coursework/COMP5004CW/cmake-build-debug/CMakeFiles/textadv.dir

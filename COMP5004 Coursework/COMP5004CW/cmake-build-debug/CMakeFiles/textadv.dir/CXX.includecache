@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Student/CLionProjects/COMP5004 Coursework/COMP5004CW/GameObject.h
+string
+-
+
+/cygdrive/c/Users/Student/CLionProjects/COMP5004 Coursework/COMP5004CW/Room.h
+string
+-
+forward_list
+-
+list
+-
+GameObject.h
+/cygdrive/c/Users/Student/CLionProjects/COMP5004 Coursework/COMP5004CW/GameObject.h
+
+/cygdrive/c/Users/Student/CLionProjects/COMP5004 Coursework/COMP5004CW/State.cpp
+iostream
+-
+iterator
+-
+fstream
+-
+State.h
+/cygdrive/c/Users/Student/CLionProjects/COMP5004 Coursework/COMP5004CW/State.h
+Room.h
+/cygdrive/c/Users/Student/CLionProjects/COMP5004 Coursework/COMP5004CW/Room.h
+vector
+-
+
+/cygdrive/c/Users/Student/CLionProjects/COMP5004 Coursework/COMP5004CW/State.h
+Room.h
+/cygdrive/c/Users/Student/CLionProjects/COMP5004 Coursework/COMP5004CW/Room.h
+
